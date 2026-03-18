@@ -1,13 +1,12 @@
 # CodeAlpha_Stock_Portfolio
 
  ## Description
- This project developed as part of internship to automate file management tasks.
+ This project developed as part of internship to track and manage stock investments.
 
  ## Features
- - Automatically detects .jpg files
- - Moves files to a target folder
- - Saves time and reduces manual work
- - Simple and easy to use
+ - Simple and user friendly
+ - Track investment amount
+ - Calculate total portfolio value
 
 ## Technologies Used
 - Python
